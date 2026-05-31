@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int [] array = new int [5];
+        Topic01Methods.run();
+        // Topic02Arrays.run();
+        // Topic03OOP.run();
     }
 }
