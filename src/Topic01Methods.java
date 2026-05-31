@@ -8,7 +8,7 @@ public class Topic01Methods {
 
         // 2. return - The method returns a value.
         System.out.println("55 + 33 = " + add(55, 33));
-        System.out.println("55 + 33 = " + multiply(55, 33));
+        System.out.println("55 * 33 = " + multiply(55, 33));
         System.out.println("25 / 5 = " + divide(25, 5));
 
         // 3. several parameters of different types.
